@@ -1,4 +1,5 @@
 {
+  "homepage": "https://hibafatima05.github.io/React-MiniProject",
   "name": "booktrip",
   "version": "0.1.0",
   "description": "",
@@ -15,7 +16,7 @@
     "start": "parcel",
     "build": "parcel build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "npx gh-pages -d dist"
   },
   "staticFiles": {
     "staticPath": "static",
