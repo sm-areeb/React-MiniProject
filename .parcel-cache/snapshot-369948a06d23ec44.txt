@@ -1,9 +1,9 @@
 8577
-68/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.6c37da8a.js1710455623573827370 0
-73/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.87f42400.css.map1710446229012919683 0
+73/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.87f42400.css.map1710458257159789946 0
+68/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.6c37da8a.js1710458257055789948 0
+69/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.18e11caa.css1710458257053789948 0
+69/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.0d02c0c1.css1710458257053789948 0
 68/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.bbe4455c.js1710446228895919684 0
-69/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.18e11caa.css1710446228894919684 0
-69/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.0d02c0c1.css1710446228893919684 0
 72/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.975ef6c8.js.map1710445582064928875 0
 68/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.975ef6c8.js1710445582033928876 0
 73/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.34b7aba5.css.map1710445581245928887 0
@@ -773,7 +773,7 @@
 97/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@mischnic/json-sourcemap/dist/index.js1710190028000000000 0
 130/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/function/var.js1710190034000000000 0
 131/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/Brackets.js1710190030000000000 0
-73/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.18e11caa.css.map1710446229010919683 0
+73/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.18e11caa.css.map1710458257153789946 0
 126/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/CDC.js1710190030000000000 0
 133/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/Combinator.js1710190030000000000 0
 130/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/Comment.js1710190030000000000 0
@@ -2145,7 +2145,7 @@
 76/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/cssesc/bin/cssesc1710189496000000000 0
 102/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@parcel/core/test/fixtures/invalid-distpath1710445508241929929 1
 83/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/prop-types/prop-types.js1710189498000000000 0
-61/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.html1710455666963826749 0
+61/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.html1710458257052789948 0
 69/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/cssesc/man1710189496000000000 1
 145/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@parcel/optimizer-htmlnano/node_modules/postcss-merge-longhand/types/lib/canMerge.d.ts1710190032000000000 0
 83/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/nanoid/index.browser.cjs1710189492000000000 0
@@ -2599,7 +2599,7 @@
 83/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/postcss/lib/postcss.d.ts1710189508000000000 0
 104/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/caniuse-lite/data/features/referrer-policy.js1710189524000000000 0
 108/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/gh-pages/node_modules/fs-extra/lib/ensure/link.js1710190030000000000 0
-50/home/hibarafeeq05/React-MiniProject/booktrip/dist1710455623670827369 1
+50/home/hibarafeeq05/React-MiniProject/booktrip/dist1710458257168789946 1
 117/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/gh-pages/node_modules/fs-extra/lib/ensure/symlink-paths.js1710190032000000000 0
 76/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/csso/node_modules1710189482000000000 1
 94/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/typescript/lib/lib.es2022.intl.d.ts1710189560000000000 0
@@ -2939,7 +2939,7 @@
 102/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/lmdb/node_modules/node-addon-api/LICENSE.md1710190030000000000 0
 97/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/posthtml/node_modules/entities/LICENSE1710190026000000000 0
 81/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/escalade/dist/index.js1710189492000000000 0
-72/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.6c37da8a.js.map1710455623669827369 0
+72/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.6c37da8a.js.map1710458257166789946 0
 82/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/is-arrayish/.travis.yml1710189498000000000 0
 77/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/json5/package.json1710189500000000000 0
 97/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@parcel/transformer-html/lib/inline.js1710445505099929974 0
@@ -3207,7 +3207,7 @@
 97/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/typescript/lib/lib.es2021.weakref.d.ts1710189560000000000 0
 92/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/node-addon-api/node_addon_api.gyp1710190026000000000 0
 97/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/typescript/lib/lib.es2018.promise.d.ts1710189560000000000 0
-69/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.87f42400.css1710446228895919684 0
+69/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.87f42400.css1710458257056789948 0
 126/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@parcel/optimizer-htmlnano/node_modules/mdn-data/css/selectors.json1710190030000000000 0
 116/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/node-gyp-build-optional-packages/node_modules/detect-libc1710190028000000000 1
 98/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/electron-to-chromium/full-versions.json1710189500000000000 0
@@ -4447,7 +4447,7 @@
 101/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@babel/helper-validator-identifier/LICENSE1710189490000000000 0
 97/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/typescript/lib/lib.es2020.promise.d.ts1710189560000000000 0
 87/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@parcel/cache/lib/FSCache.js1710445504760929979 0
-60/home/hibarafeeq05/React-MiniProject/booktrip/src/index.html1710457977965793919 0
+60/home/hibarafeeq05/React-MiniProject/booktrip/src/index.html1710458218626790497 0
 76/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/async/doDuring.js1710189506000000000 0
 76/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/typescript/lib/es1710189560000000000 1
 119/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/source-map-support/node_modules/source-map/lib/base64-vlq.js1710189496000000000 0
@@ -7735,7 +7735,7 @@
 94/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@swc/helpers/_/_array_without_holes1710190034000000000 1
 87/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/postcss/lib/lazy-result.d.ts1710189506000000000 0
 91/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@swc/helpers/_/_array_with_holes1710190034000000000 1
-73/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.0d02c0c1.css.map1710446229007919683 0
+73/home/hibarafeeq05/React-MiniProject/booktrip/dist/index.0d02c0c1.css.map1710458257153789946 0
 67/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/posthtml1710190028000000000 1
 101/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/@swc/helpers/_/_apply_decorated_descriptor1710190034000000000 1
 113/home/hibarafeeq05/React-MiniProject/booktrip/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json1710189560000000000 0

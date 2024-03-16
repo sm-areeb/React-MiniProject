@@ -1,9 +1,9 @@
 {
-  "homepage": "https://hibafatima05.github.io/React-MiniProject",
   "name": "booktrip",
   "version": "0.1.0",
   "description": "",
   "source": "src/index.html",
+  "homepage": "https://hibafatima05.github.io/React-MiniProject",
   "private": true,
   "dependencies": {
     "bulma": "^0.9.4",
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "parcel",
-    "build": "parcel build",
+    "build": "parcel build --public-url=/React-MiniProject/",
     "predeploy": "npm run build",
     "deploy": "npx gh-pages -d dist"
   },

@@ -25,4 +25,6 @@ export default createBrowserRouter([
       },
     ],
   },
-]);
+],{
+  basename:'/React-MiniProject'
+});
