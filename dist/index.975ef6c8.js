@@ -33755,7 +33755,9 @@ exports.default = (0, _reactRouterDom.createBrowserRouter)([
             }
         ]
     }
-]);
+], {
+    basename: "/"
+});
 
   $parcel$ReactRefreshHelpers$08d6.postlude(module);
 } finally {
