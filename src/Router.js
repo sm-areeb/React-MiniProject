@@ -16,15 +16,11 @@ export default createBrowserRouter([
         element: <Browse />,
       },
       {
-        path: "/create",
-        element: <Create />,
-      },
-      {
         path: "/details/:id",
         element: <Details />,
       },
     ],
   },
 ],{
-  basename:'/'
+  basename:'/React-MiniProject'
 });
