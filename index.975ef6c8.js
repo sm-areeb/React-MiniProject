@@ -34497,7 +34497,7 @@ function Browse() {
     const navigate = (0, _reactRouterDom.useNavigate)();
     (0, _react.useEffect)(()=>{
         (async ()=>{
-            const response = await fetch("/static/React-MiniProject/mockdata.json");
+            const response = await fetch("/static/mockdata.json");
             const responseData = await response.json();
             const localReviews = JSON.parse(localStorage.getItem("reviews"));
             if (localReviews?.length) localReviews.forEach((pkg)=>{
