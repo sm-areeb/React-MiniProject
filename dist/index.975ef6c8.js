@@ -33748,7 +33748,7 @@ exports.default = (0, _reactRouterDom.createBrowserRouter)([
         ]
     }
 ], {
-    basename: "/React-MiniProject"
+    basename: "/"
 });
 
   $parcel$ReactRefreshHelpers$08d6.postlude(module);
