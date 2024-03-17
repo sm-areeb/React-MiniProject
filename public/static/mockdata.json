@@ -121,10 +121,10 @@
       ]
     ],
     "photos": [
-      "/static/1.jpg",
-      "/static/2.jpg",
-      "/static/3.jpg",
-      "/static/4.jpg"
+      "/React-MiniProject/static/1.jpg",
+      "/React-MiniProject/static/2.jpg",
+      "/React-MiniProject/static/3.jpg",
+      "/React-MiniProject/static/4.jpg"
     ]
   },
   {
@@ -301,10 +301,10 @@
       ]
     ],
     "photos": [
-      "/static/2.jpg",
-      "/static/3.jpg",
-      "/static/4.jpg",
-      "/static/5.jpg"
+      "/React-MiniProject/static/2.jpg",
+      "/React-MiniProject/static/3.jpg",
+      "/React-MiniProject/static/4.jpg",
+      "/React-MiniProject/static/5.jpg"
     ]
   },
   {
@@ -475,10 +475,10 @@
       ]
     ],
     "photos": [
-      "/static/3.jpg",
-      "/static/4.jpg",
-      "/static/5.jpg",
-      "/static/6.jpg"
+      "/React-MiniProject/static/3.jpg",
+      "/React-MiniProject/static/4.jpg",
+      "/React-MiniProject/static/5.jpg",
+      "/React-MiniProject/static/6.jpg"
     ]
   },
   {
@@ -649,10 +649,10 @@
       ]
     ],
     "photos": [
-      "/static/4.jpg",
-      "/static/5.jpg",
-      "/static/6.jpg",
-      "/static/7.jpg"
+      "/React-MiniProject/static/4.jpg",
+      "/React-MiniProject/static/5.jpg",
+      "/React-MiniProject/static/6.jpg",
+      "/React-MiniProject/static/7.jpg"
     ]
   },
   {
@@ -823,10 +823,10 @@
       ]
     ],
     "photos": [
-      "/static/5.jpg",
-      "/static/6.jpg",
-      "/static/7.jpg",
-      "/static/8.jpg"
+      "/React-MiniProject/static/5.jpg",
+      "/React-MiniProject/static/6.jpg",
+      "/React-MiniProject/static/7.jpg",
+      "/React-MiniProject/static/8.jpg"
     ]
   },
   {
@@ -997,10 +997,10 @@
       ]
     ],
     "photos": [
-      "/static/6.jpg",
-      "/static/7.jpg",
-      "/static/8.jpg",
-      "/static/9.jpg"
+      "/React-MiniProject/static/6.jpg",
+      "/React-MiniProject/static/7.jpg",
+      "/React-MiniProject/static/8.jpg",
+      "/React-MiniProject/static/9.jpg"
     ]
   },
   {
@@ -1171,10 +1171,10 @@
       ]
     ],
     "photos": [
-      "/static/7.jpg",
-      "/static/8.jpg",
-      "/static/9.jpg",
-      "/static/10.jpg"
+      "/React-MiniProject/static/7.jpg",
+      "/React-MiniProject/static/8.jpg",
+      "/React-MiniProject/static/9.jpg",
+      "/React-MiniProject/static/10.jpg"
     ]
   },
   {
@@ -1345,10 +1345,10 @@
       ]
     ],
     "photos": [
-      "/static/8.jpg",
-      "/static/9.jpg",
-      "/static/10.jpg",
-      "/static/11.jpg"
+      "/React-MiniProject/static/8.jpg",
+      "/React-MiniProject/static/9.jpg",
+      "/React-MiniProject/static/10.jpg",
+      "/React-MiniProject/static/11.jpg"
     ]
   }
 ]

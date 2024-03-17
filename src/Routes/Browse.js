@@ -7,7 +7,7 @@ export default function Browse() {
   const navigate = useNavigate();
   useEffect(() => {
     (async () => {
-      const response = await fetch("/static/React-MiniProject/mockdata.json");
+      const response = await fetch("/React-MiniProject/static/mockdata.json");
       const responseData = await response.json();
       const localReviews = JSON.parse(localStorage.getItem("reviews"));
       if (localReviews?.length) {
