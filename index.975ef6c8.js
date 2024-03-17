@@ -33738,25 +33738,17 @@ exports.default = (0, _reactRouterDom.createBrowserRouter)([
                 }, undefined)
             },
             {
-                path: "/create",
-                element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _createDefault.default), {}, void 0, false, {
-                    fileName: "src/Router.js",
-                    lineNumber: 20,
-                    columnNumber: 18
-                }, undefined)
-            },
-            {
                 path: "/details/:id",
                 element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _detailsDefault.default), {}, void 0, false, {
                     fileName: "src/Router.js",
-                    lineNumber: 24,
+                    lineNumber: 20,
                     columnNumber: 18
                 }, undefined)
             }
         ]
     }
 ], {
-    basename: "/"
+    basename: "/React-MiniProject"
 });
 
   $parcel$ReactRefreshHelpers$08d6.postlude(module);
@@ -34505,7 +34497,7 @@ function Browse() {
     const navigate = (0, _reactRouterDom.useNavigate)();
     (0, _react.useEffect)(()=>{
         (async ()=>{
-            const response = await fetch("/static/mockdata.json");
+            const response = await fetch("/static/React-MiniProject/mockdata.json");
             const responseData = await response.json();
             const localReviews = JSON.parse(localStorage.getItem("reviews"));
             if (localReviews?.length) localReviews.forEach((pkg)=>{
